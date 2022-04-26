@@ -5,13 +5,13 @@
 ### Northern Hemisphere domain
 
 <p align="center">
-  <img width="800" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_35W_f_OUT_ortho.svg">
+  <img width="720" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_35W_f_OUT_ortho.svg">
 </p>
 
 Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_35W_f_OUT_ortho.svg)
 
 <p align="center">
-  <img width="800" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_130E_f_OUT_ortho.svg">
+  <img width="720" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_130E_f_OUT_ortho.svg">
 </p>
 
 Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_130E_f_OUT_ortho.svg)
