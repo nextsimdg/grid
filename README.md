@@ -14,6 +14,8 @@ Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg
   <img width="400" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_cell_area_+_iso-lat_+_mask.png">
 </p>
 
+<br>
+
 
 ### Southern Hemisphere domain
 
@@ -23,6 +25,11 @@ Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg
 ![**plot**](https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_130E_f_OUT_ortho.svg) <br>
 Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_130E_f_OUT_ortho.svg)
 
+<p align="center">
+  <img height="400" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_cell_area_+_iso-lat_+_mask.png">
+</p>
+
+<br>
 
 
 
