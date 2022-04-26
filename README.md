@@ -30,6 +30,8 @@ Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg
 
 <p align="center">
   <img height="400" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_cell_area_+_iso-lat_+_mask.png">
+  <br>
+  <i>Local area of grid cells, iso-latitudes and land-sea mask.</i>
 </p>
 
 <br>
