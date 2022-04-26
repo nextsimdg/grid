@@ -1,6 +1,6 @@
-# Horizontal grids for `nextsim-dg`
+# Horizontal grids for `nextsim-DG`
 
-## 1 degree version based on ORCA1 (NEMO)
+## Bi-hemispheric 1 degree version, based on ORCA1 (NEMO)
 
 ### Northern Hemisphere domain
 
