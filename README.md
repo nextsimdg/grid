@@ -8,19 +8,19 @@
   <img width="720" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_35W_f_OUT_ortho.svg">
 </p>
 
-*Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_35W_f_OUT_ortho_WHITE.svg)*
+*Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_35W_f_OUT_ortho_WHITE.svg)*
 
 <p align="center">
   <img width="720" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_130E_f_OUT_ortho.svg">
 </p>
 
-*Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_130E_f_OUT_ortho_WHITE.svg)*
+*Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_130E_f_OUT_ortho_WHITE.svg)*
 
 <!--
 ![**plot**](https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_35W_f_OUT_ortho.svg) <br>
-Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_35W_f_OUT_ortho.svg)
+Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_35W_f_OUT_ortho.svg)
 ![**plot**](https://github.com/nextsimdg/grid/blob/main/figs/1degree/NH_130E_f_OUT_ortho.svg) <br>
-Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_130E_f_OUT_ortho.svg)
+Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/NH_130E_f_OUT_ortho.svg)
 -->
 
 <br>
@@ -41,20 +41,20 @@ Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg
   <img width="720" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_35W_f_OUT_ortho.svg">
 </p>
 
-*Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_35W_f_OUT_ortho_WHITE.svg)*
+*Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_35W_f_OUT_ortho_WHITE.svg)*
 
 <p align="center">
   <img width="720" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_130E_f_OUT_ortho.svg">
 </p>
 
-*Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_130E_f_OUT_ortho_WHITE.svg)*
+*Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_130E_f_OUT_ortho_WHITE.svg)*
 
 
 <!--
 ![**plot**](https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_35W_f_OUT_ortho.svg) <br>
-Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_35W_f_OUT_ortho.svg)
+Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_35W_f_OUT_ortho.svg)
 ![**plot**](https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_130E_f_OUT_ortho.svg) <br>
-Vectorial image so zoomable: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_130E_f_OUT_ortho.svg)
+Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/grid/main/figs/1degree/SH_130E_f_OUT_ortho.svg)
 -->
 
 <br>
