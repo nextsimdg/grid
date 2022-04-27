@@ -70,7 +70,8 @@ Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/gr
 
 ### Content of the netCDF file
 
-We should agree on what exactly this file should contain but for now I had to start with something and here it is. Both the Northern and Southern hemisphere domains are included in this file; with corresponding dimensions and variables being identified with the `*_n` and `*_s` suffixes, respectively.
+We should agree on what exactly this file should contain but for now I had to start with something and [here it is](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/brodeau/sasip/nextsim-dg/grid/grid_nextsimDG_2xHEMI1.nc).
+Both the Northern and Southern hemisphere domains are included in this file; with corresponding dimensions and variables being identified with the `*_n` and `*_s` suffixes, respectively.
 
 #### Reminder 
 
