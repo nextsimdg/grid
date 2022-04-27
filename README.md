@@ -60,7 +60,7 @@ Zoomable vectorial image: [here!](https://raw.githubusercontent.com/nextsimdg/gr
 <br>
 
 <p align="center">
-  <img height="400" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_cell_area_+_iso-lat_+_mask.png">
+  <img height="300" src="https://github.com/nextsimdg/grid/blob/main/figs/1degree/SH_cell_area_+_iso-lat_+_mask.png">
   <br>
   <i>Local resolution of grid cells, iso-latitudes and land-sea mask.</i>
 </p>
