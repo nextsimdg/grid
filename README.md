@@ -1,6 +1,6 @@
 # Horizontal grids for `nextsim-DG`
 
-## Bi-hemispheric 1 degree version, based on ORCA1 (NEMO)
+## Bi-hemispheric 1&deg; version, based on ORCA1 (NEMO)
 
 ### Northern Hemisphere domain
 
@@ -81,7 +81,7 @@ NEMO uses the Arakawa C-grid formalism with *squarish* meshes. As such, the poin
   <img width="200" src="https://github.com/nextsimdg/grid/blob/main/figs/Grid-cell_p.svg">
 </p>
 
-The exact content of current state netCDF file for the 1&#8451; resolution domain:
+The exact content of current state netCDF file for the 1&deg; resolution domain:
 
     netcdf grid_nextsimDG_2xHEMI1 {
     dimensions:
