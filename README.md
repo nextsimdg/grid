@@ -75,7 +75,7 @@ Both the Northern and Southern hemisphere domains are included in this file; wit
 
 #### Reminder 
 
-NEMO uses the Arakawa C-grid formalism with *squarish* meshes. As such, the point at the very center of a given mesh is the `T-point`, points defining the 4 corners of mesh are `F-points`.
+NEMO uses the Arakawa C-grid formalism with *squarish* meshes. As such, the point at the very center of a given mesh is the `T-point`, while points that define the 4 corners of the mesh are `F-points`.
 
 <p align="center">
   <img width="200" src="https://github.com/nextsimdg/grid/blob/main/figs/Grid-cell_p.svg">
